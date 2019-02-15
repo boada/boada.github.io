@@ -43,7 +43,7 @@ Usage is simple:
 
 5) You can switch the position of the monogram and text as seen in timlum.com.
 
-=============================
+
 Change Notes:
 =============================
 
