@@ -3,6 +3,11 @@ The personal website for Steven Boada. The theme was originally forked from [The
 
 The online resume was created with [HackMyResume](https://github.com/hacksalot/HackMyResume). It's a resume that has been written in JSON and is based on [FRESH](https://github.com/fresh-standard/fresh-resume-schema).
 
+The resume can be rebuilt/updated with:
+
+`hackmyresume build resume.json TO resume/resume.all -t positive`
+
+
 The original README is given below:
 
 =============================
